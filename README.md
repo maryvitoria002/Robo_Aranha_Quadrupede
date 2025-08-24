@@ -15,6 +15,6 @@ Ele foi projetado para ser um <b>robô quadrúpede ambulante</b>, utilizando pe�
 </p>
 
 <p align="justify">
-Além da locomoção, uma função extra foi adicionada ao projeto: a <b>interação com o ambiente</b>. Quando o <b>sensor ultrassônico</b> detectar um obstáculo à frente, o robô moverá uma das patas dianteiras como se estivesse tentando afastá-lo, proporcionando maior expressividade e tornando sua movimentação mais natural e interativa.
+Além da locomoção, uma função extra foi adicionada ao projeto: a <b>interação com o ambiente</b>. Quando o <b>sensor ultrassônico</b> detectar um obstáculo à frente, o robô moverá uma das patas dianteiras como se estivesse tentando afastá-lo, proporcionando maior expressividade e tornando sua movimentação mais natural e interativa, há ainda uma % de chance de o robô aceitar a aproximação e não reagir.
 </p>
 
